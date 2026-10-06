@@ -8,7 +8,7 @@ local playerGui = player:WaitForChild("PlayerGui")
 
 -- ===== LƯU / ĐỌC KEY ĐÃ NHỚ =====
 local SAVE_FILE = "chili_key_saved.txt"
-local correctKey = "KEYCUHUB-free-111"
+local correctKey = "KEYCUHUB-vip-247"
 local savedKey = ""
 
 -- Đọc key đã lưu (nếu executor hỗ trợ)
